@@ -28,24 +28,62 @@ class LogFileSearcher:
         return keyword_file_path
 
     def create_json_file(self, keyword_file_path):
+        #data = {}
+        """
+        # Create the GUI window
+        window = tk.Tk()
+        window.title("JSON Creator")
+
+        def submit():
+            nonlocal data
+            keyword = entry1.get()
+            value = entry2.get()
+            data[keyword] = value
+            entry1.delete(0, tk.END)
+            entry2.delete(0, tk.END)
+
+        # Create the input widgets
+        label1 = tk.Label(window, text="Keyword:")
+        label1.pack()
+        entry1 = tk.Entry(window)
+        entry1.pack()
+
+        label2 = tk.Label(window, text="Value:")
+        label2.pack()
+        entry2 = tk.Entry(window)
+        entry2.pack()
+
+        # Create the submit button
+        button = tk.Button(window, text="Submit", command=submit)
+        button.pack()
+
+        # Create the exit button
+        exit_button = tk.Button(window, text="Exit", command=window.quit)
+        exit_button.pack()
+
+        # Run the GUI loop
+        window.mainloop()
+        """
         filename = filedialog.asksaveasfilename(title="Create JSON File", defaultextension=".json",
                                                 filetypes=(("JSON Files", "*.json"),))
         if not filename:
             return
 
-        keywords = {}
+        data = {}
         while True:
-            keyword = input("Enter a keyword (or type 'quit' to exit): ")
+            keyword = tk.simpledialog.askstring("Enter a keyword", "(or type 'quit' to exit):")
             if keyword == 'quit':
                 break
-            value = input(f"Enter a value for '{keyword}': ")
-            keywords[keyword] = value
+            value   = tk.simpledialog.askstring("New value", "Enter a new Value:")
+            data[keyword] = value
 
-        with open(filename, 'w') as f:
-            json.dump(keywords, f, indent=4)
+        if data:
+            with open(keyword_file_path, "w") as f:
+                json.dump(data, f, indent=4)
+            messagebox.showinfo("JSON File Created", "JSON file created successfully!")
+        else:
+            messagebox.showerror("No Data Entered", "No data was entered to create the JSON file.")
 
-        # Rename the created file to keywords.json
-        os.rename(filename, keyword_file_path)
 
     def search_log_file(self, log_file_path, keyword_file_path):
         # Check if keyword file exists
@@ -57,10 +95,11 @@ class LogFileSearcher:
                 # If yes, ask user to enter keywords and values
                 keyword_dict = {}
                 while True:
-                    keyword = input("Enter a keyword (or 'done' to finish): ")
+                    keyword = tk.simpledialog.askstring("Enter a keyword", "(or 'done' to finish)")
                     if keyword.lower() == 'done':
                         break
-                    value = input("Enter the corresponding value: ")
+                    #value = input("Enter the corresponding value: ")
+                    value   = tk.simpledialog.askstring("New value", "Enter a new Value:")
                     keyword_dict[keyword] = value
                 # Write the keywords and values to the file
                 with open(keyword_file_path, 'w') as f:
@@ -71,9 +110,8 @@ class LogFileSearcher:
                 return
 
         # Open the log file and read its contents
-        with open(log_file_path) as f:
+        with open(log_file_path, encoding='utf-8') as f:
             log_file = f.readlines()
-
         # Open the keyword file and load its contents as a dictionary
         with open(keyword_file_path) as f:
             keywords = json.load(f)
@@ -95,9 +133,10 @@ class LogFileSearcher:
             response = messagebox.askyesno("Keyword not found", "No matching keyword found in log file. Do you want to add a new keyword and value?")
             if response:
                  # Ask user to enter a new keyword and value
-                new_keyword = input("Enter a new keyword: ")
-                new_value = input(f"Enter a value for '{new_keyword}': ")
-
+                #new_keyword = input("Enter a new keyword: ")
+                new_keyword = tk.simpledialog.askstring("New Keyword", "Enter a new keyword:")
+                new_value   = tk.simpledialog.askstring("New value", "Enter a new keyword:")
+                 
                 # Add the new keyword and value to the existing dictionary
                 keywords[new_keyword] = new_value
 

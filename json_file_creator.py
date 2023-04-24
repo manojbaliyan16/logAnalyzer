@@ -15,10 +15,12 @@ class JSONFileCreator:
 
         keywords = {}
         while True:
-            keyword = input("Enter a keyword (or type 'quit' to exit): ")
+            #keyword = input("Enter a keyword (or type 'quit' to exit): ")
+            keyword = tk.simpledialog.askstring("Enter a keyword", "(or type 'quit' to exit):")
             if keyword == 'quit':
                 break
-            value = input(f"Enter a value for '{keyword}': ")
+           # value = input(f"Enter a value for '{keyword}': ")
+            value   = tk.simpledialog.askstring("New value", "Enter a new Value:")
             keywords[keyword] = value
 
         with open(filename, 'w') as f:
