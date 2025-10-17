@@ -1,0 +1,86 @@
+@startuml DLT Log Analyzer - High Level Design
+title DLT Log Analyzer — Clean High-Level Design
+skinparam componentStyle rectangle
+skinparam shadowing false
+
+actor Developer as Dev
+
+package "External Systems" {
+  [Source Code Repo] as Repo
+  [LLM Service] as LLM
+  [Static Analysis] as Static
+  [Symbol / Build Map] as Symbol
+}
+
+package "DLT Log Analyzer (Local CLI MVP)" {
+  [CLI Orchestrator] as CLI
+
+  rectangle "Ingestion & Parsing" {
+    [DLT Parser] as Parser
+    [Parsed Log Store (JSON)] as ParsedStore
+  }
+
+  rectangle "Feature & Indexing" {
+    [Feature Extractor] as Features
+    [Log Vector DB (FAISS)] as LogVectorDB
+    [Code Chunk Index] as CodeIndex
+  }
+
+  rectangle "Modeling & Reasoning" {
+    [Classifier (SVM/LightGBM)] as Classifier
+    [Retriever (Vector Search)] as Retriever
+    [Re-ranker (LightGBM)] as Ranker
+    [Explanation Composer] as Explain
+  }
+
+  rectangle "Feedback & Ops" {
+    [Labels / Feedback Store] as Labels
+    [Retrain Service] as Retrain
+    [Local Storage (.json / sqlite)] as LocalStore
+  }
+}
+
+'--- Core flows ---'
+Dev --> CLI : run_analysis --file
+CLI --> Parser : parse file
+Parser --> ParsedStore : store parsed
+ParsedStore --> Features : read logs
+Features --> LogVectorDB : embed & upsert
+Features --> CodeIndex : used for code embedding
+Repo --> CodeIndex : provide code files (one-time/index)
+
+CLI --> Classifier : extract features -> predict
+CLI --> Retriever : embed query -> search
+Retriever --> LogVectorDB : query similar logs
+Retriever --> CodeIndex : query code chunks
+Classifier --> Ranker : candidate scores
+Retriever --> Ranker : similarity scores
+Ranker --> Explain : ranked candidates + evidence
+Explain --> LocalStore : store results
+LocalStore --> CLI : return results.json
+CLI --> Dev : display top-K + evidence
+
+'--- Feedback loop ---'
+Dev --> Labels : approve / correct
+Labels --> Retrain : new labeled data
+Retrain --> Classifier : update model
+Retrain --> Ranker : update ranker
+
+'--- Optional external assists ---'
+Explain --> LLM : (optional) format explanation (evidence-only)
+Ranker --> Static : (optional) request static analysis on candidate file
+Static --> Ranker : static warnings report
+Symbol --> CodeIndex : provide build-symbol mappings (improves matching)
+
+'Notes
+note left of Parser
+- Support text & binary DLT
+- Normalize timestamps, levels, component IDs
+end note
+
+note right of Explain
+- Evidence-first: always show matched lines and past incidents
+- LLM only formats/explains — do not rely for root cause
+end note
+
+@enduml

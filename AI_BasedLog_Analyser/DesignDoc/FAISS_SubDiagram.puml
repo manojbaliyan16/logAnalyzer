@@ -1,0 +1,52 @@
+@startuml
+title Log Vector DB (FAISS) — Functional Overview
+' sequence diagram style
+skinparam sequenceMessageAlign center
+skinparam shadowing false
+
+actor Developer as Dev
+participant "Feature Extractor" as FE
+participant "Embedding Model\n(SentenceTransformer)" as Embed
+participant "FAISS Index" as FAISS
+participant "Retriever / Ranker" as Ret
+participant "Classifier" as Clf
+
+== Building the Vector Store (Training / Indexing Phase) ==
+Dev -> FE : provide labeled DLT logs
+FE -> Embed : convert log text -> embedding vector
+Embed --> FE : return embeddings (float arrays)
+FE -> FAISS : store vectors + metadata (log_id, module, build_id)
+FAISS --> FE : ack (index updated)
+
+== Querying / Inference Phase ==
+Dev -> FE : provide new DLT log for analysis
+FE -> Embed : generate query embedding
+Embed --> FE : return normalized embedding
+FE -> FAISS : search nearest neighbors (top-K)
+FAISS --> FE : return similar logs + similarity scores
+FE -> Ret : pass retrieved logs for ranking
+Ret -> Clf : request classifier scores for candidates
+Clf --> Ret : classifier scores
+Ret -> Dev : return top-3 modules + evidence
+
+' Notes
+note over FAISS
+Local vector index storing semantic embeddings.
+Supports similarity search (cosine / inner product).
+Stores metadata for past logs & modules.
+end note
+
+note right of Embed
+Embedding model examples:
+- all-MiniLM-L6-v2 (384D)
+- all-mpnet-base-v2 (768D)
+end note
+
+note left of Ret
+Ranker combines:
+- FAISS similarity
+- Classifier probability
+- Heuristic signals
+end note
+
+@enduml
