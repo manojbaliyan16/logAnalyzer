@@ -1,0 +1,90 @@
+@startuml DLT Log Analyzer — Sequence Diagram
+title DLT Log Analyzer — End-to-End Sequence (CLI MVP)
+
+actor Developer as Dev
+participant "CLI Orchestrator" as CLI
+participant "DLT Parser" as Parser
+participant "Parsed Log Store (JSON)" as ParsedStore
+participant "Feature Extractor" as Features
+participant "Log Vector DB (FAISS)" as LogVectorDB
+participant "Code Chunk Index" as CodeIndex
+participant "Classifier (SVM/LightGBM)" as Classifier
+participant "Retriever (Vector Search)" as Retriever
+participant "Re-ranker (LightGBM)" as Ranker
+participant "Explanation Composer" as Explain
+participant "Local Storage (.json/sqlite)" as LocalStore
+participant "Labels / Feedback Store" as Labels
+participant "Retrain Service" as Retrain
+participant "LLM Service (optional)" as LLM
+participant "Static Analysis (optional)" as Static
+participant "Symbol / Build Map (optional)" as Symbol
+
+== User runs CLI ==
+Dev -> CLI : run_analysis --file <dlt> --output results.json
+CLI -> Parser : parse <dlt> file
+Parser -> ParsedStore : write parsed JSON (structured logs)
+ParsedStore --> CLI : ack (parsed path)
+
+== Feature extraction & indexing/checks ==
+CLI -> Features : request features for parsed log
+Features -> ParsedStore : read parsed window (N lines)
+Features -> LogVectorDB : compute & upsert embeddings (optional)
+Features -> CodeIndex : (if code not indexed) ensure index available
+CodeIndex --> Features : confirm index ready
+Features --> CLI : return feature vector + metadata
+
+== Initial predictions & retrieval ==
+CLI -> Classifier : predict candidate modules (top-K)
+Classifier --> CLI : candidate modules + scores
+CLI -> Retriever : embed log query and search
+Retriever -> LogVectorDB : query top similar logs
+Retriever -> CodeIndex : query top matching code chunks
+LogVectorDB --> Retriever : return similar past incidents
+CodeIndex --> Retriever : return top code chunks
+Retriever --> CLI : return retrieval results
+
+== Ranking & explanation ==
+CLI -> Ranker : assemble candidate list (classifier + retrieval) and score
+Ranker --> CLI : ranked candidates (top-3) with internal scores
+CLI -> Explain : provide ranked candidates + retrieved evidence
+alt If LLM enabled
+  Explain -> LLM : send evidence-only payload (low temp; JSON schema)
+  LLM --> Explain : formatted explanations (strict evidence-based)
+else
+  Explain --> CLI : format explanation from evidence (no LLM)
+end
+Explain -> LocalStore : save results and evidence
+LocalStore --> CLI : results.json ready
+CLI --> Dev : print results.json (top-3 candidates + evidence + confidence)
+
+== Optional: run static analysis on top candidate ==
+opt If static analysis desired
+  Dev -> CLI : request deeper check (candidate idx)
+  CLI -> Static : run_static_analysis(file, lines)
+  Static --> CLI : static report (warnings/errors)
+  CLI -> Explain : append static report to evidence
+  CLI --> Dev : updated results
+end
+
+== Feedback loop (learning) ==
+Dev -> Labels : submit feedback (approved / correct_file / notes)
+Labels --> Retrain : new labeled data
+Retrain -> Classifier : retrain baseline model (periodic)
+Retrain -> Ranker : retrain ranker (periodic)
+Retrain --> LocalStore : store new model artifacts
+LocalStore --> CLI : update models used for inference
+
+== Optional: Symbol/build map assistance ==
+opt If symbol/build mapping available
+  Symbol -> CodeIndex : push mapping (messageID -> source file)
+  CodeIndex --> Ranker : boost candidates with mapping matches
+end
+
+note over Ranker,Explain
+Recommendations:
+- Keep LLM calls evidence-only.
+- Enforce deterministic outputs: low temperature, strict JSON schema.
+- Always show raw matched log lines & code snippets to developers.
+end note
+
+@enduml
