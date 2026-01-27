@@ -1,0 +1,144 @@
+@startuml AI_Enhanced_Architecture
+
+title AI-Enhanced EM Log Analyser Architecture
+
+skinparam backgroundColor #FEFEFE
+skinparam componentStyle rectangle
+
+package "LoGAnalyser System (AI-Enhanced)" {
+    
+    package "Main Controller" {
+        [EM_Analyzer_main] as Main
+    }
+    
+    package "Configuration Layer" {
+        [configSettings] as Config
+        database "Configs" {
+            file "Pattern Configs (JSON)"
+            file "AI Model Config"
+        }
+    }
+    
+    package "Analysis Layer (Hybrid)" {
+        
+        rectangle "Pattern-Based Analysis" #E3F2FD {
+            [Traditional Analyzer] as PatternAnalyzer
+            [PatternMatching] as Pattern
+            [TracePatternMatching] as TracePattern
+        }
+        
+        rectangle "AI-Powered Analysis" #FFF9C4 {
+            [AI_Analyzer] as AIAnalyzer
+            [ML Model] as Model
+            [Preprocessor] as Preprocess
+            [Postprocessor] as Postprocess
+        }
+        
+        [Result Fusion] as Fusion
+    }
+    
+    package "ML Infrastructure" #FFE0B2 {
+        [Model Server] as ModelServer
+        [Feedback Collector] as Feedback
+        [Model Monitor] as Monitor
+        [Retraining Pipeline] as Retrain
+    }
+    
+    package "Data Layer" {
+        database "Training Data" {
+            folder "Labeled Logs"
+            folder "Historical Tickets"
+            folder "Analyst Feedback"
+        }
+        
+        database "Model Storage" {
+            file "log_analyzer_v1.pt"
+            file "log_analyzer_v2.pt"
+            file "tokenizer/"
+        }
+    }
+    
+}
+
+cloud "External Systems" {
+    [JIRA Server] as JIRA
+    node "GPU Cluster" as GPU
+}
+
+database "File System" {
+    folder "Logs & Results"
+    file "Dashboards"
+}
+
+' Main workflow connections
+Main --> Config: load configs
+Main --> PatternAnalyzer: pattern analysis
+Main --> AIAnalyzer: AI analysis
+PatternAnalyzer --> Fusion: results
+AIAnalyzer --> Fusion: predictions
+Fusion --> Main: combined results
+
+' Pattern analyzer connections
+PatternAnalyzer --> Pattern: uses
+PatternAnalyzer --> TracePattern: uses
+
+' AI analyzer connections
+AIAnalyzer --> Preprocess: preprocess logs
+Preprocess --> Model: tokenized input
+Model --> Postprocess: raw predictions
+Postprocess --> AIAnalyzer: formatted results
+
+' Model server connections (optional)
+AIAnalyzer ..> ModelServer: REST API (optional)
+ModelServer --> Model: loads model
+ModelServer --> GPU: inference
+
+' Model storage connections
+Model --> "Model Storage": load/save
+Preprocess --> "Model Storage": load tokenizer
+
+' Feedback loop
+Main --> Feedback: collect analyst feedback
+Feedback --> "Training Data": store feedback
+JIRA --> Feedback: resolution data
+
+' Monitoring
+AIAnalyzer --> Monitor: log predictions
+Monitor --> "Training Data": store metrics
+
+' Retraining pipeline
+Monitor --> Retrain: trigger retraining
+"Training Data" --> Retrain: load data
+Retrain --> Model: retrain
+Retrain --> "Model Storage": save new version
+
+' External connections
+Main --> JIRA: fetch/update
+Main --> "File System": read/write
+
+note right of Fusion
+Combines both approaches:
+- Pattern-based: Known issues
+- AI-based: Unknown issues
+- Confidence-weighted fusion
+end note
+
+note right of Model
+Hybrid Architecture:
+- BERT for text encoding
+- MLP for metadata
+- Multi-task learning:
+  * Root cause
+  * Severity
+  * Components
+end note
+
+note bottom of Retrain
+Continuous Learning:
+- Automated retraining
+- Performance monitoring
+- A/B testing
+- Version management
+end note
+
+@enduml

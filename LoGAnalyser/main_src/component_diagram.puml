@@ -1,0 +1,132 @@
+@startuml LoGAnalyser_Component_Diagram
+
+title LoGAnalyser - Component Architecture Diagram
+
+skinparam componentStyle rectangle
+skinparam backgroundColor #FEFEFE
+
+package "LoGAnalyser System" {
+    
+    package "Configuration Layer" {
+        [configSettings] as Config
+        database "JSON Configs" as JSONConfigs {
+            file "feature_config.json"
+            file "Validation_Patterns_config.json"
+            file "Trace_Patterns_config.json"
+            file "downloadPipe_Patterns_config.json"
+            file "Comment_Patterns_config.json"
+        }
+    }
+    
+    package "Main Controller" {
+        [EM_Analyzer_main] as Main
+        [Global Variables] as Global
+    }
+    
+    package "Database Interface" {
+        [DBInterfacing] as DB
+        [JIRA_InitFetchUpdate] as JIRA_Module
+    }
+    
+    package "Ticket Processing" {
+        [TicketFactory] as Factory
+        [Ticket] as Ticket
+        [Manipulate_TicketData] as Manipulate
+        [getTRC] as TRC
+        [retreiveCustVersionFromDashboard] as CustVer
+    }
+    
+    package "Log Processing" {
+        [Logs] as Logs
+    }
+    
+    package "Analysis Engine" {
+        [Analyzer] as Analyzer
+        [PatternMatching] as Pattern
+        [TracePatternMatching] as TracePattern
+        [HansyLink] as Hansy
+    }
+    
+    package "Reporting Layer" {
+        [Dashboard_Updater] as Dashboard
+        [BuildLogCreator] as ErrorLog
+    }
+    
+}
+
+cloud "JIRA Server" as JIRA_Cloud
+database "File System" as FS {
+    folder "GetLogs/" {
+        folder "NCG3D-XXXXXX/" {
+            file "attachments"
+            folder "DirectPro_LOGS/"
+            folder "Decoded_LOGS/"
+            folder "Downloaded_ZIPS/"
+            folder "TRCs/"
+        }
+    }
+    folder "Dashboard/" {
+        file "Errmem_Dashboard.csv"
+        file "Errmem_Metrics.csv"
+    }
+    file "Error_log.csv"
+}
+
+' Configuration connections
+Config --> JSONConfigs: reads
+Config --> Global: stores config data
+Main --> Config: loads configs
+
+' Main controller connections
+Main --> DB: fetches/updates tickets
+Main --> Factory: creates tickets
+Main --> Logs: processes logs
+Main --> Analyzer: analyzes logs
+Main --> Dashboard: generates reports
+Main --> ErrorLog: logs errors
+
+' Database interface connections
+DB --> JIRA_Module: uses
+JIRA_Module --> JIRA_Cloud: API calls
+
+' Ticket processing connections
+Factory --> Ticket: creates
+Ticket --> Manipulate: validates/manipulates
+Manipulate --> TRC: extracts TRCs
+Manipulate --> CustVer: retrieves versions
+
+' Log processing connections
+Logs --> FS: downloads/decodes
+
+' Analysis connections
+Analyzer --> Pattern: uses
+Analyzer --> TracePattern: uses
+Analyzer --> Hansy: generates links
+
+' Reporting connections
+Dashboard --> FS: writes CSV
+ErrorLog --> FS: writes error logs
+
+' External connections
+JIRA_Cloud --> FS: downloads attachments
+DB --> JIRA_Cloud: uploads results
+
+note right of Main
+Main Orchestrator
+Controls entire workflow
+end note
+
+note right of Analyzer
+Pattern-based analysis:
+- Comment patterns
+- Trace patterns
+- Error signatures
+end note
+
+note bottom of JIRA_Cloud
+External System
+Source of tickets
+and attachments
+end note
+
+@enduml

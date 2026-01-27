@@ -1,0 +1,20 @@
+	Line 254:         match = re.search(r'<......2. ..:..:.. UTC>', line_check) datePattern
+	Line 912:     	  match = re.search(r'\d{4}\/\d{1,2}\/\d{1,2}',description) fddatepattern
+	Line 936:         match = re.search(r'\d{1,2}\/\d{1,2}\/\d{4}',description) fddatepattern           
+	Line 1146:             block0_pattern=re.search(".*errmemd: ERRMEM beginning of block 1 from device", line_check) 
+	Line 1151:             line_pattern=re.search(".*errmemd: ERRMEM beginning of block [1-9][0-9]?", line_check)
+	Line 1218:             match_str=re.search('..../../..', line_check) logcollecteddatepattern
+							swid=re.findall('"([^"]*)"', line_check)
+	
+	------------ text patterns --------------------
+	
+	
+	Line 1217:         if(line_check.find("DLT:")!=-1):
+	Line 1248:         if(line_check.find("blocks are missing in device")==-1):
+	Line 1306:         if(line_check.find("ERRMEM beginning of block")!=-1):	
+	Line 1376:         if(line_check.find("ERRMEM: VERSIONINFO: EcuSerialNumber:")==-1):
+	Line 1420:         if(line_check.find("ERRMEM: VERSIONINFO: EcuSparePartNumber:")==-1):    
+
+	------------------------------------------------
+	
+	Line 2066:         if(e1.find("HTTP Error 404:")!=-1):

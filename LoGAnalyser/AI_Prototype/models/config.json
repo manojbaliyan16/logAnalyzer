@@ -1,0 +1,34 @@
+{
+  "classes": [
+    "CAN Bus Error",
+    "File System Error",
+    "Hardware Fault",
+    "Kernel Panic",
+    "Memory Leak",
+    "Network Timeout",
+    "No Issue",
+    "SW Update Failure",
+    "Thread Crash",
+    "Unknown Issue",
+    "Watchdog Timeout"
+  ],
+  "severity_classes": [
+    "CRITICAL",
+    "HIGH",
+    "LOW",
+    "MEDIUM"
+  ],
+  "sw_versions": [
+    "AIVI_SW5244",
+    "AIVI_SW5250",
+    "PIVI_SW4100",
+    "PIVI_SW4110",
+    "REAL_LOG"
+  ],
+  "platforms": [
+    "gen3",
+    "gen4"
+  ],
+  "accuracy": 0.5605381165919282,
+  "num_features": 155
+}

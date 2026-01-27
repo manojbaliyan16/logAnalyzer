@@ -1,0 +1,2 @@
+C:\AUTO_Flash\em_trace\EM_Analyser_v10_labelled_tickets_Jenkins_exeFile\USER_CONFIG_EM_Analyzer_newLabelling.exe
+echo "job completed"

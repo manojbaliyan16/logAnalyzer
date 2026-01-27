@@ -1,0 +1,103 @@
+@startuml LoGAnalyser_Activity_Diagram
+
+!define LIGHTBLUE #E3F2FD
+!define BLUE #2196F3
+!define LIGHTORANGE #FFF3E0
+!define ORANGE #FF9800
+
+title LoGAnalyser - Activity Workflow Diagram
+
+skinparam backgroundColor #FEFEFE
+skinparam ActivityBackgroundColor LIGHTBLUE
+skinparam ActivityBorderColor BLUE
+skinparam ActivityBorderThickness 2
+skinparam PartitionBackgroundColor LIGHTORANGE
+skinparam PartitionBorderColor ORANGE
+skinparam PartitionBorderThickness 2
+skinparam ArrowThickness 2
+skinparam NoteFontSize 11
+skinparam ActivityFontSize 12
+skinparam defaultTextAlignment center
+skinparam Shadowing false
+
+start
+
+partition "Initialization Phase" {
+  :Load Configuration Files;
+  :Create GetLogs Folder;
+  :Initialize JIRA Connection;
+  :Generate JQL Query;
+  :Fetch Tickets from JIRA;
+  :Create Ticket Factory with FTMDT;
+  :Get Total Ticket Count;
+}
+
+partition "Ticket Processing Phase" {
+
+  :Pick Ticket from Factory;
+  :Validate Ticket Data;
+
+  if (Ticket Valid?) then (NO)
+    :Generate Info Needed Comment;
+    :Set Status INFO NEEDED;
+    :Add to Invalid Tickets;
+  else (YES)
+    :Fetch Ticket Data;
+
+    partition "Log Download & Processing" {
+      :Process Attachments;
+
+      if (Attachment Type?) then (zip)
+        :Extract Zip;
+        repeat
+          :Process File;
+        repeat while (More Files?)
+      else (single file)
+        :Validate File;
+      endif
+    }
+
+    partition "Log Analysis" {
+      if (Valid Logs Available?) then (YES)
+        repeat
+          :Analyze Log;
+        repeat while (More Logs?)
+      else (NO)
+        :Generate No Valid Logs Message;
+      endif
+    }
+
+    :Prepare PTMD;
+    :Set label log_PreAnalyzed_auto;
+    :Set Status SUCCESS;
+  endif
+
+  :Add Ticket to Processed List;
+}
+
+partition "JIRA Update Phase" {
+  if (Processed Tickets Available?) then (YES)
+    repeat
+      :Update JIRA Ticket;
+    repeat while (More Tickets?)
+  else (NO)
+    :Skip Update;
+  endif
+}
+
+partition "Dashboard & Metrics Phase" {
+  :Calculate Metrics;
+  :Update Dashboard CSV;
+  :Update Metrics CSV;
+}
+
+partition "Error Handling Phase" {
+  if (Errors Occurred?) then (YES)
+    :Write Error Log CSV;
+  else (NO)
+    :No Errors;
+  endif
+}
+
+stop
+@enduml

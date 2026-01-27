@@ -1,0 +1,30 @@
+{
+	"FeatureControl": [
+	{
+		"ProjectName":"NCG3D",
+		"Labels to process":["EMA_Trial"],
+		"Maximum Tickets":2,
+		"Component to process":["SW_SWUPDATE"],
+		"DB":"JIRA",
+		"Server":"https://hi-cmts.apps.intranet.bosch.com:8443",
+		"user":"CMN3KOR",
+		"password":"Registration@2023",
+		"DownloadPath":"GetLogs\\",
+		"IntegrationDashBoardLink":"http://10.165.234.103:9090/IntegrationDashBoard/",
+		"geckodriverPath":"exes\\geckodriver.exe",
+		"TRCFinderPath":"exes\\ExtractTrcFiles.exe",
+		"DecoderPath":"exes\\Decoder.exe",
+		"HansyLink":"http://fe0vm20pemaivi.de.bosch.com:8083/",
+		"Pre Analysis":"True",
+		"Labelled Ticket Handling":"False",
+		"Decoded File Upload":"True",
+		"Main Analysis":"True",
+		"Analysis Comment Upload":"True",
+		"Assign to default assignee":"True",
+		"Default Assignee":"Nayantara K Kumar",
+		"BuildLogFilePath":"BuildLogs\\Errmem_Build_log.csv",
+		"DashboardFilePath":"Dashboard\\Errmem_Dashboard.csv",
+		"Labels to set completion":["EM_Analyzer_decoded_auto","EM_Analyzer_PreAnalyzed_auto"]
+	}
+	]
+}

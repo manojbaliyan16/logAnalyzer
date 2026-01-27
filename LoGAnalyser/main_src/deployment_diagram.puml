@@ -1,0 +1,115 @@
+@startuml LoGAnalyser_Deployment_Diagram
+
+title LoGAnalyser - Deployment Architecture
+
+skinparam backgroundColor #FEFEFE
+skinparam NodeBackgroundColor #E3F2FD
+skinparam NodeBorderColor #2196F3
+
+node "Execution Environment" {
+    
+    node "Python Runtime" {
+        artifact "EM_Analyzer_main.py" as Main
+        artifact "Configuration Modules" as Config
+        artifact "Processing Modules" as Processing
+        artifact "Analysis Modules" as Analysis
+        
+        Main --> Config
+        Main --> Processing
+        Main --> Analysis
+    }
+    
+    folder "Configuration Files" {
+        file "feature_config.json"
+        file "Validation_Patterns_config.json"
+        file "Trace_Patterns_config.json"
+        file "downloadPipe_Patterns_config.json"
+        file "Comment_Patterns_config.json"
+    }
+    
+    folder "File System Storage" {
+        folder "GetLogs/" {
+            folder "NCG3D-XXXXXX/" {
+                file "Attachments (.pro, .bin, .zip)"
+                folder "DirectPro_LOGS/"
+                folder "Decoded_LOGS/"
+                folder "Downloaded_ZIPS/"
+                folder "TRCs/"
+            }
+        }
+        
+        folder "Dashboard/" {
+            file "Errmem_Dashboard.csv"
+        }
+        
+        file "Errmem_Metrics.csv"
+        file "Error_log.csv"
+    }
+    
+    Config --> "Configuration Files": reads
+    Processing --> "File System Storage": reads/writes
+    Analysis --> "File System Storage": reads
+}
+
+cloud "External Systems" {
+    node "JIRA Server" as JIRA {
+        database "Ticket Database" {
+            collections "Field Complaints"
+            collections "Attachments"
+        }
+    }
+    
+    node "TRC Repository" as TRC_Server {
+        database "Trace Class Files" {
+            file "libnavmiddleware.trc"
+            file "prj_overall_a.trc"
+            file "procmap.trc"
+            file "etc..."
+        }
+    }
+    
+    node "Hansy Visualization Tool" as Hansy {
+        interface "HTTP API" as Hansy_API
+    }
+}
+
+' Network connections
+Main --> JIRA: HTTPS\n(fetch/update tickets)
+Main --> TRC_Server: File Transfer\n(download TRCs)
+Analysis --> Hansy: HTTP\n(generate links)
+
+' Notes
+note right of JIRA
+Authentication:
+- Username
+- Password
+- Token-based
+end note
+
+note right of "Python Runtime"
+Dependencies:
+- jira (JIRA Python API)
+- pandas
+- regex
+- zipfile
+- csv
+end note
+
+note bottom of "File System Storage"
+Persistent Storage:
+- Downloaded logs
+- Decoded files
+- Processing results
+- Error logs
+end note
+
+legend right
+    |= Symbol |= Meaning |
+    | Node | Execution/Runtime environment |
+    | Artifact | Executable component |
+    | Folder | File system directory |
+    | Cloud | External system |
+    | --> | Communication/Dependency |
+endlegend
+
+@enduml

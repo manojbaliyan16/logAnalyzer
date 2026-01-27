@@ -1,0 +1,180 @@
+@startuml ML_Pipeline
+
+title Machine Learning Pipeline for Log Analysis
+
+skinparam backgroundColor #FEFEFE
+
+|Data Collection|
+start
+:Collect Historical Tickets from JIRA;
+:Export Processed Logs;
+:Gather Analyst Resolutions;
+:Create Raw Dataset;
+
+|Data Preparation|
+:Data Cleaning;
+note right
+- Remove duplicates
+- Handle missing values
+- Normalize formats
+end note
+
+:Data Labeling;
+note right
+Label each log with:
+- Root cause
+- Severity
+- Affected components
+- Resolution actions
+end note
+
+:Feature Engineering;
+note right
+Extract features:
+- Log text (cleaned)
+- SW version encoding
+- Platform/variant
+- Temporal features
+- Missing blocks flag
+- Overwritten blocks flag
+end note
+
+:Train/Val/Test Split;
+note right
+- Training: 70%
+- Validation: 15%
+- Test: 15%
+end note
+
+|Model Training|
+fork
+    :Train BERT\nText Encoder;
+fork again
+    :Train Metadata\nEncoder (MLP);
+end fork
+
+:Combine Encoders\n(Fusion Layer);
+
+:Multi-Task Learning;
+note right
+Simultaneous prediction:
+1. Root Cause (10 classes)
+2. Severity (4 classes)
+3. Components (15 classes)
+end note
+
+:Calculate Loss;
+note right
+Weighted multi-task loss:
+Loss = 1.0 * L_rootcause 
+     + 0.5 * L_severity
+     + 0.8 * L_component
+end note
+
+:Backpropagation;
+:Update Weights;
+
+repeat
+    :Train Epoch;
+    :Validate;
+    
+    if (Validation Improving?) then (yes)
+        :Save Checkpoint;
+    else (no)
+        :Early Stopping Check;
+    endif
+    
+repeat while (Epochs < Max?) is (yes)
+->no;
+
+|Model Evaluation|
+:Test on Hold-out Set;
+
+:Calculate Metrics;
+note right
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- Per-class performance
+end note
+
+if (Performance Acceptable?) then (yes)
+    |Model Deployment|
+    :Export Model;
+    :Version Control;
+    note right
+    - Save model weights
+    - Save tokenizer
+    - Save config
+    - Tag version (v1.0)
+    end note
+    
+    :Deploy to Production;
+    
+    fork
+        :Local Deployment;
+        note right: Embedded in application
+    fork again
+        :Model Server;
+        note right: FastAPI endpoint
+    fork again
+        :Cloud Deployment;
+        note right: AWS SageMaker
+    end fork
+    
+else (no)
+    :Tune Hyperparameters;
+    note right
+    - Learning rate
+    - Batch size
+    - Model architecture
+    - Loss weights
+    end note
+    
+    backward:|Model Training|
+    
+endif
+
+|Production|
+:Receive Log Analysis Request;
+:Preprocess Input;
+:Run Inference;
+:Postprocess Output;
+:Return Predictions;
+
+|Monitoring|
+:Log Prediction;
+:Collect Feedback;
+
+fork
+    :Performance Monitoring;
+    note right
+    Track:
+    - Accuracy over time
+    - Prediction confidence
+    - Execution time
+    - Error rate
+    end note
+    
+fork again
+    :Data Drift Detection;
+    note right
+    Monitor:
+    - Input distribution
+    - Feature statistics
+    - Prediction distribution
+    end note
+end fork
+
+if (Retraining Needed?) then (yes)
+    :Collect New Labeled Data;
+    backward:|Data Preparation|
+else (no)
+    :Continue Monitoring;
+endif
+
+stop
+
+@enduml
