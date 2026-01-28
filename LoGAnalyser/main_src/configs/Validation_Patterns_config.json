@@ -1,8 +1,0 @@
-{
-	"ValidationPatterns":[
-	{
-		"_SW_ID_inFile":["<file@card>OSALCORE  \"AI_PRJ_RN_AIVI_","<gen3flex@dlt>(core0)OSALCORE  \"AI_PRJ_RN_AIVI_"],
-		"FaultDatePattern":""
-	}
-	]
-}
