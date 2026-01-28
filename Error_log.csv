@@ -1,0 +1,1704 @@
+ , 
+Date of Build : 10/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '700x17807214x5', 'X-ASESSIONID': '1ojnziu', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 10 Aug 2023 09:40:59 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 10/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '377x2938095x20', 'X-ASESSIONID': 'v5ksd1', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 04:17:36 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '377x2938103x13', 'X-ASESSIONID': 'v5ksd1', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 04:17:37 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '380x2940528x5', 'X-ASESSIONID': '13p49dt', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 04:20:12 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '380x2940537x3', 'X-ASESSIONID': '13p49dt', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 04:20:12 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '386x2949886x4', 'X-ASESSIONID': '5mf34b', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 04:26:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '386x2949890x4', 'X-ASESSIONID': '5mf34b', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 04:26:39 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '731x3530457x12', 'X-ASESSIONID': '1hqbvck', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 10:11:26 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '731x3530465x16', 'X-ASESSIONID': '1hqbvck', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 10:11:26 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '731x3531732x17', 'X-ASESSIONID': '1o6930l', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 10:11:49 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '731x3531750x15', 'X-ASESSIONID': '1o6930l', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 10:11:50 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '733x3536497x6', 'X-ASESSIONID': '1n2qis0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 10:13:31 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '733x3536514x12', 'X-ASESSIONID': '1n2qis0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 17 Aug 2023 10:13:31 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 17/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '403x4650915x9', 'X-ASESSIONID': 'k15gps', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 04:43:07 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '403x4650931x12', 'X-ASESSIONID': 'k15gps', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 04:43:08 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '403x4651814x11', 'X-ASESSIONID': '15bl8n7', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 04:43:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '403x4651826x8', 'X-ASESSIONID': '15bl8n7', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 04:43:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '403x4652030x8', 'X-ASESSIONID': '1nk2rdp', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 04:43:47 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '403x4652041x9', 'X-ASESSIONID': '1nk2rdp', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 04:43:48 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '434x4698425x8', 'X-ASESSIONID': '3t2bbp', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:14:30 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '434x4698438x11', 'X-ASESSIONID': '3t2bbp', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:14:31 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '435x4700458x12', 'X-ASESSIONID': '8jxj4f', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:15:27 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '435x4700491x10', 'X-ASESSIONID': '8jxj4f', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:15:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '449x4717370x7', 'X-ASESSIONID': 'zcc6e8', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:29:34 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '449x4717388x6', 'X-ASESSIONID': 'zcc6e8', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:29:35 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '450x4718761x8', 'X-ASESSIONID': 'g1xp1k', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:30:39 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '450x4718779x8', 'X-ASESSIONID': 'g1xp1k', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:30:39 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '456x4727464x6', 'X-ASESSIONID': '6be0so', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:36:42 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '456x4727482x9', 'X-ASESSIONID': '6be0so', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:36:42 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '458x4730083x8', 'X-ASESSIONID': '3mrcjl', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:38:13 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '458x4730089x6', 'X-ASESSIONID': '3mrcjl', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:38:13 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '459x4732154x7', 'X-ASESSIONID': '1t9gl6i', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:39:21 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '459x4732166x4', 'X-ASESSIONID': '1t9gl6i', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:39:22 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '463x4740429x13', 'X-ASESSIONID': '1ef0xu5', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:43:43 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '463x4740445x9', 'X-ASESSIONID': '1ef0xu5', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:43:44 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '465x4743837x7', 'X-ASESSIONID': 'l70poy', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:45:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '465x4743843x6', 'X-ASESSIONID': 'l70poy', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 05:45:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '485x4772759x9', 'X-ASESSIONID': '1qf9179', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:05:11 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '485x4772762x10', 'X-ASESSIONID': '1qf9179', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:05:12 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '506x4808165x10', 'X-ASESSIONID': 'ukbv78', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:26:49 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '506x4808169x11', 'X-ASESSIONID': 'ukbv78', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:26:50 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '509x4810552x7', 'X-ASESSIONID': '8xytwj', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:29:19 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '509x4810598x4', 'X-ASESSIONID': '8xytwj', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:29:20 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '510x4811775x12', 'X-ASESSIONID': 'f86lsd', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:30:11 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '510x4811781x12', 'X-ASESSIONID': 'f86lsd', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:30:11 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '517x4823941x8', 'X-ASESSIONID': '1obhxac', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:37:11 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '517x4823951x7', 'X-ASESSIONID': '1obhxac', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 18 Aug 2023 06:37:12 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 18/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 21/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '728x6998880x9', 'X-ASESSIONID': 'xfoo8l', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 21 Aug 2023 10:08:03 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 21/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '728x6998887x9', 'X-ASESSIONID': 'xfoo8l', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 21 Aug 2023 10:08:03 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 21/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 21/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '753x7028074x6', 'X-ASESSIONID': '1dxe0n6', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 21 Aug 2023 10:33:27 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 21/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '753x7028078x6', 'X-ASESSIONID': '1dxe0n6', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 21 Aug 2023 10:33:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 21/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '302x7708615x8', 'X-ASESSIONID': '10zybii', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 22 Aug 2023 03:02:46 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '302x7708626x10', 'X-ASESSIONID': '10zybii', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 22 Aug 2023 03:02:46 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '426x7829103x9', 'X-ASESSIONID': '1pfeaxw', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 22 Aug 2023 05:06:06 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '501x7934126x7', 'X-ASESSIONID': 'v410u0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 22 Aug 2023 06:21:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '530x7979927x6', 'X-ASESSIONID': '1jfq3us', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 22 Aug 2023 06:50:53 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '532x7982028x7', 'X-ASESSIONID': 'i32j15', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 22 Aug 2023 06:52:05 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 22/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '406x9016642x6', 'X-ASESSIONID': '3eu6bw', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 04:46:37 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '409x9020220x5', 'X-ASESSIONID': '102im51', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 04:49:24 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '411x9023252x4', 'X-ASESSIONID': '15qyig', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 04:51:54 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '413x9024939x10', 'X-ASESSIONID': 'pvolt2', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 04:53:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '423x9038573x12', 'X-ASESSIONID': '1w6x128', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 05:03:59 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '510x9161722x14', 'X-ASESSIONID': '1syecwf', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 06:30:26 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '515x9168324x6', 'X-ASESSIONID': 'mtov87', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 23 Aug 2023 06:35:14 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 23/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 24/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '752x10451581x7', 'X-ASESSIONID': '1t30yby', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 24 Aug 2023 10:32:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 24/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '295x11080661x3', 'X-ASESSIONID': 'eahkak', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 02:55:36 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '299x11081428x3', 'X-ASESSIONID': 'yn63jl', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 02:59:43 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '303x11083587x5', 'X-ASESSIONID': '40ey4i', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 03:03:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '345x11105034x3', 'X-ASESSIONID': 'bves1y', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 03:45:31 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '347x11105670x7', 'X-ASESSIONID': 'kilcg6', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 03:47:07 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '394x11138736x8', 'X-ASESSIONID': '1433utj', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 04:34:52 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '395x11139302x8', 'X-ASESSIONID': 'glb5rq', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 04:35:20 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '714x11568154x10', 'X-ASESSIONID': 'y57lgm', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 09:54:40 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '724x11581801x8', 'X-ASESSIONID': 'atsza5', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 10:04:11 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '735x11598346x6', 'X-ASESSIONID': 'pxnys8', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 10:15:51 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '741x11604762x7', 'X-ASESSIONID': '9vvvn9', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 10:21:34 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '767x11637282x11', 'X-ASESSIONID': '1xwkd0p', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 25 Aug 2023 10:47:57 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 25/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '325x13311935x6', 'X-ASESSIONID': '1ptfju6', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:25:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '330x13314121x8', 'X-ASESSIONID': 'ybsgs2', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:30:08 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '336x13317807x6', 'X-ASESSIONID': '1y8z1jt', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:36:04 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '336x13317911x6', 'X-ASESSIONID': 'cdnqy1', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:36:16 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '348x13325970x3', 'X-ASESSIONID': '1qp5oc2', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:48:27 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '350x13327164x5', 'X-ASESSIONID': '1xczk5w', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:50:22 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '354x13329606x4', 'X-ASESSIONID': '621bt1', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 03:54:21 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '362x13334294x10', 'X-ASESSIONID': 'yhtvt5', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 04:02:45 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '362x13334443x7', 'X-ASESSIONID': 'm6tpkk', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 04:02:57 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '383x13354166x4', 'X-ASESSIONID': '1vlz81e', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 04:23:37 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '443x13427744x7', 'X-ASESSIONID': 'k64zu8', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 05:23:18 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '448x13433389x5', 'X-ASESSIONID': 'wbv53y', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 05:28:49 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '450x13435023x12', 'X-ASESSIONID': '1atbtwh', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 05:30:14 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '455x13441855x9', 'X-ASESSIONID': '181anc0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 05:35:00 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '463x13453615x7', 'X-ASESSIONID': 'h05t5k', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 28 Aug 2023 05:43:01 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 28/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '303x14523137x8', 'X-ASESSIONID': 'qenjdk', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 29 Aug 2023 03:03:19 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '449x14673743x10', 'X-ASESSIONID': 'eau3rh', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 29 Aug 2023 05:29:00 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '694x15015893x10', 'X-ASESSIONID': 'r2ne2g', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 29 Aug 2023 09:34:54 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '717x15046568x5', 'X-ASESSIONID': 'v2yss9', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 29 Aug 2023 09:57:42 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '724x15056061x8', 'X-ASESSIONID': 'xlxf9z', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 29 Aug 2023 10:04:53 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 29/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '529x16094945x6', 'X-ASESSIONID': '1knuhzi', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 06:49:02 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '535x16104205x8', 'X-ASESSIONID': '4ofh39', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 06:55:40 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '659x16257493x4', 'X-ASESSIONID': 'nj29ls', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 08:59:01 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '694x16318439x8', 'X-ASESSIONID': '16tu1h1', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 09:34:43 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '696x16320632x9', 'X-ASESSIONID': '8zdcbl', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 09:36:16 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '697x16322106x8', 'X-ASESSIONID': 'vryv0t', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 09:37:16 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '698x16323470x7', 'X-ASESSIONID': '184mb8s', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 09:38:30 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '797x16433011x7', 'X-ASESSIONID': '4o8rvd', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 11:17:44 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '799x16434539x9', 'X-ASESSIONID': 'fp2af4', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 11:19:29 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '801x16435788x5', 'X-ASESSIONID': '2t4kwx', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 11:21:02 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '805x16438649x5', 'X-ASESSIONID': '1x253ds', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Wed, 30 Aug 2023 11:25:25 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 30/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '422x16972420x13', 'X-ASESSIONID': '1gfibvz', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:02:17 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '426x16978234x6', 'X-ASESSIONID': '1pglm8l', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:06:01 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '429x16982720x8', 'X-ASESSIONID': '10fxklc', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:09:36 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '431x16984956x8', 'X-ASESSIONID': 'o8dlfl', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:11:19 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '433x16988592x9', 'X-ASESSIONID': 'ly9ky', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:13:42 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '439x16994999x6', 'X-ASESSIONID': 'ocj5xd', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:19:12 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '440x16996238x11', 'X-ASESSIONID': '16mxg90', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:20:21 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '447x17004447x6', 'X-ASESSIONID': '1222hze', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:27:22 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '449x17006369x4', 'X-ASESSIONID': '7n93d4', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:29:03 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '466x17030498x7', 'X-ASESSIONID': 'nhlko4', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:46:08 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+NCG3D-312247,list index out of range,RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '467x17032565x7', 'X-ASESSIONID': '12ykoh1', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:47:28 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+NCG3D-312247,list index out of range,RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '468x17034184x8', 'X-ASESSIONID': '17tgrke', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:48:47 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '478x17046248x4', 'X-ASESSIONID': 'q0vpmg', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 05:58:09 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '521x17110777x5', 'X-ASESSIONID': '1uxf2nn', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 06:41:02 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '521x17111593x8', 'X-ASESSIONID': '1pyqody', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 06:41:37 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '525x17116747x9', 'X-ASESSIONID': '1ssirj0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 06:45:14 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '538x17137566x7', 'X-ASESSIONID': '1jmwbpv', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 31 Aug 2023 06:58:30 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 31/08/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '386x20582651x5', 'X-ASESSIONID': 'u1oknw', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 04:26:03 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '389x20586711x6', 'X-ASESSIONID': 'nm6hel', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 04:29:54 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '392x20589431x9', 'X-ASESSIONID': 'b1otzy', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 04:32:03 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '393x20591403x8', 'X-ASESSIONID': '1ad0dj', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 04:33:23 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '395x20593427x8', 'X-ASESSIONID': '18993sw', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 04:35:15 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '520x20768983x11', 'X-ASESSIONID': 'pm5nys', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 06:40:24 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '527x20781828x11', 'X-ASESSIONID': '1p4co9n', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 06:47:50 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '528x20782655x5', 'X-ASESSIONID': '1d8jtwc', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 04 Sep 2023 06:48:23 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 04/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '427x22001257x9', 'X-ASESSIONID': 'w1my5y', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 05:07:56 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '462x22059610x13', 'X-ASESSIONID': '1jntrug', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 05:42:02 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '464x22063251x7', 'X-ASESSIONID': '47o13e', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 05:44:39 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '465x22064755x7', 'X-ASESSIONID': 'xp7ysp', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 05:45:51 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '466x22065711x5', 'X-ASESSIONID': '1ucbqm0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 05:46:34 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '484x22088971x18', 'X-ASESSIONID': 'pxctb0', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 06:04:24 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '495x22105582x6', 'X-ASESSIONID': 'b9urh8', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 06:15:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '502x22116391x10', 'X-ASESSIONID': 'tx5ld5', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 06:22:38 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '514x22137411x9', 'X-ASESSIONID': '1903qby', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 06:34:59 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '528x22163550x8', 'X-ASESSIONID': 'llpk23', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 06:48:39 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '544x22187710x11', 'X-ASESSIONID': 'smrasq', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 07:04:39 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '550x22196791x11', 'X-ASESSIONID': 'u75vg2', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 07:10:10 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '661x22362294x17', 'X-ASESSIONID': '12hp7t', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 09:01:52 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '670x22379126x14', 'X-ASESSIONID': 'fzepgy', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 09:10:26 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '684x22406234x6', 'X-ASESSIONID': '1vtv6ku', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Tue, 05 Sep 2023 09:24:48 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 05/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 07/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '693x25631045x10', 'X-ASESSIONID': '110xdls', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Thu, 07 Sep 2023 09:33:46 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 07/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR
+ , 
+Date of Build : 11/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+EM_Analyzer_need_info,"JiraError HTTP 404 url: https://hi-cmts.apps.intranet.bosch.com:8443/rest/api/2/issue/EM_Analyzer_need_info/comment
+	text: Issue Does Not Exist
+	
+	response headers = {'X-AREQUESTID': '633x29676060x10', 'X-ASESSIONID': '1om37jf', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000', 'X-Seraph-LoginReason': 'OK', 'X-AUSERNAME': 'cmn3kor', 'Cache-Control': 'no-cache, no-store, no-transform', 'Content-Security-Policy': 'sandbox', 'Content-Encoding': 'gzip', 'Vary': 'User-Agent', 'Content-Type': 'application/json;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Mon, 11 Sep 2023 08:33:51 GMT', 'Keep-Alive': 'timeout=60', 'Connection': 'keep-alive'}
+	response text = {""errorMessages"":[""Issue Does Not Exist""],""errors"":{}}",RESULT UPDATE ERROR
+ , 
+Date of Build : 11/09/2023
+**BUILD PART**,**ERROR INFO**,**ERROR TYPE**
+ARTA FAILURE,list index out of range,SERVER INTERFACE / ACCESS ERROR

@@ -1,0 +1,23 @@
+{
+	"CommentPatterns":[
+		"CommentTextPatterns":[
+		{
+			"Log_collected_DateText_pattern":"DLT",
+			"Overwritten_Blocks_pattern":"blocks are missing in device",
+			"Missing_Blocks_pattern":"ERRMEM beginning of block",
+			"SerialNumber_pattern":"ERRMEM: VERSIONINFO: EcuSerialNumber:",
+			"PartNumber_pattern":"ERRMEM: VERSIONINFO: EcuSparePartNumber:" 
+		}
+		],
+		"CommentREPatterns":[
+		{
+			"UTCDatePatternInTraces":"",
+			"AcceptedFaultDateFormats":"",
+			"Block0Pattern":"",
+			"BlocknPattern":"",
+			"Log_collected_DateRE_pattern":"",
+			"SW_ID_RE_Pattern":""
+		}
+		]
+	]
+}
